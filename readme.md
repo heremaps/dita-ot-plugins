@@ -1,4 +1,4 @@
-# DITA Open Toolkit Plugins
+# DITA Open Toolkit Plug-ins
 
 This repository serves to organize a set of DITA OT plug-ins developed internally at [HERE](https://company.here.com/here/)
 into a single project, where each plugin is a separate git submodule.
