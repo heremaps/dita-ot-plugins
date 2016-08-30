@@ -1,0 +1,9 @@
+[submodule "com.here.validate.svrl"]
+	path = com.here.validate.svrl
+	url = git@github.com:heremaps/com.here.validate.svrl.git
+[submodule "com.here.validate.svrl.overrides"]
+	path = com.here.validate.svrl.overrides
+	url = git@github.com:heremaps/com.here.validate.svrl.overrides.git
+[submodule "com.here.validate.svrl.text-rules"]
+	path = com.here.validate.svrl.text-rules
+	url = git@github.com:heremaps/com.here.validate.svrl.text-rules.git
